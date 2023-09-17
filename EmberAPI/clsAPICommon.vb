@@ -23,6 +23,7 @@ Imports System.IO
 Imports System.Text.RegularExpressions
 Imports System.Xml.Serialization
 Imports System.Drawing
+Imports System.Windows.Forms
 
 Public Class Containers
 
