@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EmberMediaManager", "EmberMediaManager\EmberMediaManager.vbproj", "{9B57D3AB-AF12-4012-B945-284C2448DC81}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -91,7 +91,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "generic.EmberCore.VideoSour
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "generic.Interface.Trakttv", "Addons\generic.Interface.Trakttv\generic.Interface.Trakttv.vbproj", "{6F30E40B-6D85-4EE7-9474-5F82E96E1817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVDB", "..\TheTVDBApi\src\TVDB\TVDB.csproj", "{A265B83F-495E-43BD-B1F5-C89B58618A84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVDB", "TheTVDBApi\src\TVDB\TVDB.csproj", "{A265B83F-495E-43BD-B1F5-C89B58618A84}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "scraper.Theme.YouTube", "Addons\scraper.Theme.YouTube\scraper.Theme.YouTube.vbproj", "{B28C4811-D816-4442-ADF6-C8B4CEFB470E}"
 EndProject
